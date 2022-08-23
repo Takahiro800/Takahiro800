@@ -31,4 +31,6 @@ I graduated in mathematics and worked as a high school math teacher for four yea
 
 <a href="http://www.github.com/Takahiro800"><img src="https://github-readme-stats.vercel.app/api?username=Takahiro800&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Takahiro800's GitHub stats" /></a>
 
+<a href="http://www.github.com/Takahiro800"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Takahiro800&stroke=facc15&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=facc15&currStreakLabel=ef4444&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
 <a href="https://github.com/Takahiro800" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Takahiro800&langs_count=10&title_color=ef4444&text_color=facc15&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
