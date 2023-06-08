@@ -4,7 +4,7 @@ Hi 👋 My name is taemath
 Web Developer and Software Engineer
 -----------------------------------
 
-I graduated in mathematics and worked as a high school math teacher for four years. He then switched careers to become an engineer, a position I held for three years.
+I graduated in mathematics and worked as a high school math teacher for four years. I then switched careers to become an engineer, a position I held for three years.
 
 * 🌍  I'm based in Japan
 * 🧠  I'm learning Ruby, DB, Rust, React, TypeScript
